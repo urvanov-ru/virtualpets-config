@@ -8,8 +8,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 public class VirtualpetsConfigApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VirtualpetsConfigApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(VirtualpetsConfigApplication.class, args);
+    }
 
 }
